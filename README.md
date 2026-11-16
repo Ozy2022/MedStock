@@ -20,6 +20,18 @@
 
 ---
 
+<div align="center">
+
+### ▶️ A quick tour — the supervisor journey
+
+![MedStock demo — a supervisor raising a request through to receipt](assets/demo.gif)
+
+*Request → approval → issue → receipt, on synthetic demo data.*
+
+</div>
+
+---
+
 ## The problem
 
 Hospital store rooms run on spreadsheets: a storekeeper types issues into Excel, wards phone in requests, expiry dates are tracked by hand, and nobody can say with confidence what is on the shelf or what it is worth. MedStock replaces that with a single, auditable system that the whole store — storekeepers, ward supervisors, and management — uses together.
