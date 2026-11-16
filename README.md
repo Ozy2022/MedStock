@@ -47,16 +47,13 @@ The walkthrough below follows a ward supervisor raising a supply request and sig
 | | |
 |:--:|:--|
 | ![Dashboard](screenshots/01-dashboard.jpg) | **1 · Dashboard** — every role's home screen, scoped to the stores and wards they cover. |
-| ![Select area](screenshots/02-select-area.jpg) | **2 · Choose the ward** — a supervisor picks the area they are covering; their lists and requests follow the choice. |
-| ![Requests list](screenshots/03-requests-list.jpg) | **3 · Requests** — the ward's open and closed requests at a glance. |
-| ![New request](screenshots/04-new-request.jpg) | **4 · New request** — build a request line by line. |
-| ![Item search](screenshots/05-item-search.jpg) | **5 · Find an item** — fast, accent-aware catalogue search. |
-| ![Request ready](screenshots/06-request-ready.jpg) | **6 · Ready to send** — review before submitting for approval. |
-| ![Submitted](screenshots/07-submitted.jpg) | **7 · Submitted** — the request enters the approval workflow. |
-| ![Awaiting receipt](screenshots/08-awaiting-receipt.jpg) | **8 · Issued** — the store delivers against the approved request. |
-| ![Request details](screenshots/09-request-details.jpg) | **9 · Request detail** — full history: who approved, what was issued, every stage on the record. |
-| ![Confirm receipt](screenshots/10-confirm-receipt.jpg) | **10 · Confirm receipt** — the ward signs for what physically arrived. |
-| ![Received & closed](screenshots/11-received-closed.jpg) | **11 · Closed** — the loop is complete and fully audited. |
+| ![Requests](screenshots/02-requests-list.jpg) | **2 · Requests** — the ward's open and closed requests at a glance, by status. |
+| ![New request](screenshots/03-new-request.jpg) | **3 · New request** — pick the area you cover and the store that supplies it, then build the request. |
+| ![Item search](screenshots/04-item-search.jpg) | **4 · Find an item** — fast catalogue search to add what the ward needs. |
+| ![Ready to send](screenshots/05-request-ready.jpg) | **5 · Ready to send** — set quantities and review before submitting for approval. |
+| ![Submitted](screenshots/06-submitted.jpg) | **6 · Submitted** — the request enters the approval workflow and waits for review. |
+| ![Request detail](screenshots/07-request-details.jpg) | **7 · Request detail** — the full record: status, who created it, and every workflow stage. |
+| ![Fulfilled](screenshots/08-fulfilled.jpg) | **8 · Fulfilled & received** — approval, issue and receipt on one timeline, every line reconciled to zero remaining. |
 
 ---
 
